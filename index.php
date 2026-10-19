@@ -1,42 +1,42 @@
 <?php
 $daftar_mahasiswa = [
     [
-        "nim" => "25001",
+        "nim" => "2501881",
         "nama" => "Delia Mutiara",
         "jurusan" => "Pendidikan Sistem dan Teknologi Informasi",
-        "email" => "delia@upi.edu",
+        "email" => "delia@student.upi.edu",
         "nilai" => 96,
         "grade" => "A"
     ],
     [
-        "nim" => "25002",
+        "nim" => "2502197",
         "nama" => "Zahra Apriyani Sanjaya",
         "jurusan" => "Pendidikan Sistem dan Teknologi Informasi",
-        "email" => "april@upi.edu",
+        "email" => "april@student.upi.edu",
         "nilai" => 96,
         "grade" => "A"
     ],
     [
-        "nim" => "25003",
+        "nim" => "2502851",
         "nama" => "Fatia Nuri Ramdani",
         "jurusan" => "Pendidikan Sistem dan Teknologi Informasi",
-        "email" => "fatia@upi.edu",
+        "email" => "fatia@student.upi.edu",
         "nilai" => 96,
         "grade" => "A"
     ],
     [
-        "nim" => "25004",
+        "nim" => "2502018",
         "nama" => "Salma Ashilah",
         "jurusan" => "Pendidikan Sistem dan Teknologi Informasi",
-        "email" => "salma@upi.edu",
+        "email" => "salma@student.upi.edu",
         "nilai" => 92,
         "grade" => "A"
     ],
     [
-        "nim" => "25005",
+        "nim" => "2502601",
         "nama" => "Khoerul sheva Marsya Fika",
         "jurusan" => "Pendidikan Sistem dan Teknologi Informasi",
-        "email" => "maca@upi.edu",
+        "email" => "maca@student.upi.edu",
         "nilai" => 95,
         "grade" => "A"
     ]
